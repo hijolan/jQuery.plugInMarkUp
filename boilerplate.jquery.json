@@ -1,0 +1,36 @@
+{
+	"name": "boilerplate",
+	"title": "jQuery MarkUp",
+	"description": "jQuery Plugin to call... well other jQuery PlugIns via html markup",
+	"keywords": [
+		"jquery",
+		"boilerplate",
+		"plugins",
+		"markup"
+	],
+	"version": "0.0.1",
+	"author": {
+		"name": "Constantin Lebrecht",
+		"email": "constantin.lebrecht@gmail.com",
+		"url": "http://www.monavari.de/"
+	},
+	"maintainers": [
+		{
+			"name": "Constantin Lebrecht",
+			"email": "constantin.lebrecht@gmail.com",
+			"url": "https://github.com/hijolan/"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"bugs": "https://github.com/jquery-boilerplate/boilerplate/issues",
+	"homepage": "http://jqueryboilerplate.com",
+	"docs": "https://github.com/jquery-boilerplate/boilerplate#readme",
+	"download": "https://github.com/jquery-boilerplate/boilerplate/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
